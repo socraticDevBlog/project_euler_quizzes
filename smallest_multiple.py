@@ -4,7 +4,7 @@
 
 smallestNumberFound = False
 number = 20
-dividers = range(1, 21)
+dividers = range(1, number + 1)
 i = 0
 
 while(not smallestNumberFound):
